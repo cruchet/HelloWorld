@@ -5,6 +5,7 @@
  *      Author: Vassili
  */
 
+/* Ajout de test EGit */
 #include <iostream>
 #include <vector>
 #include "Polynomial.h"
